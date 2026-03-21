@@ -38,6 +38,7 @@ FONT_SIZE = 42
 TEXT_COLOR = (0, 0, 0)
 ```
 Adjust these values based on your certificate template.
+
 ---
 ## 🛠️ Installation
 ### 1. Clone the repository
@@ -94,7 +95,9 @@ participant2.pdf
 ---
 ## 📜 License
 This project is open-source and available under the MIT License.
+
 ---
 ## 🙌 Contributing
 Feel free to fork the repo and submit pull requests for improvements!
+
 ---
