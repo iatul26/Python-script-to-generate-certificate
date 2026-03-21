@@ -1,7 +1,7 @@
 # 🎓 Certificate Generator (Python)
-
 A simple Python script to automatically generate **customized certificates in PDF format** using participant data from a CSV file.
 This project overlays participant details like name, institute, topic, date, and serial number onto a certificate template image.
+
 ---
 ## 🚀 Features
 * Generate certificates in **bulk from CSV**
